@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on learning a MERN Stack website for my friend's new fashion company
+- 🔭 I’m currently working on a MERN Stack website for my friend's new fashion company
 
 - 🌱 I’m currently learning MERN Stack, Tensorflow, and Data Structures/Algorithms
 
