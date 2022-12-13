@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I'm currently working on some cool crypto-related software
+- 🔭 I'm currently working on some cool Voice Recognition Security research
 
-- 🌱 I’m currently learning Tensorflow Keras, and Data Structures/Algorithms
+- 🌱 I’m currently learning DSA, Applied ML, and NLP
 
 - 👯 I’m looking to collaborate on hackathons and other AI/ML projects
 
