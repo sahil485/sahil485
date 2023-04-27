@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I'm currently working on some cool Voice Recognition Security research
+- 🔭 I'm currently working on Mobile Dev. in React Native
 
 - 🌱 I’m currently learning DSA, Applied ML, and NLP
 
 - 👯 I’m looking to collaborate on hackathons and other AI/ML projects
 
-- 📫 Reach me at sahilcoding101@gmail.com. Especially hit me up if you have a spare OpenSea API key 😅
+- 📫 Reach me at sahilcoding101@gmail.com
