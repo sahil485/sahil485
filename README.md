@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I'm currently working on Mobile Dev. in React Native
+- 🔭 I'm currently working on GCP ML Engineer Cert and a React Native Mobile App!
 
 - 🌱 I’m currently learning DSA, Applied ML, and NLP
 
