@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I'm currently working on a comprehensive testing suite for SDK Generators @ Fern 
+- 🔭 I'm currently working on a comprehensive testing suite for SDK Generators @ Fern, and a startup called Privanet with my friends!
 
 - 🌱 I’m currently learning DSA, Applied ML, and NLP
 
