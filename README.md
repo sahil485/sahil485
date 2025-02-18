@@ -7,10 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I'm currently working on a comprehensive testing suite for SDK Generators @ Fern, and a startup called Privanet with my friends!
+- 🔭 I'm currently working on Whiteboard, which is a platform that extracts/correlates insights across B2B customer conversations to improve customer experience.
 
-- 🌱 I’m currently learning DSA, Applied ML, and NLP
-
-- 👯 I’m looking to collaborate on hackathons and other AI/ML projects
+- 🌱 I’m currently learning NLP
 
 - 📫 Reach me at sahilchatiwala@gmail.com
